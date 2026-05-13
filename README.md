@@ -45,7 +45,7 @@ No interruptions. No remapping unless media mode is active.
 
 1. Download the latest release from the **Releases** page
 2. Extract the ZIP file
-3. Run `MouseMedia.exe`
+3. Run `enam's mouse media.exe`
 
 Done.
 
